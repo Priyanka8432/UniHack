@@ -93,16 +93,6 @@ src/
 
 ---
 
-### 🖼️ Demo Screenshot Suggestion
-
-If you're planning to add to your portfolio or submission:
-
-* One screenshot of the **template selector**
-* One screenshot of a **generated launch page**
-* One screenshot of the **drag-and-drop uploader**
-
----
-
 ### 📦 Deployment Tip
 
 For easy deployment:
