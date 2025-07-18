@@ -59,11 +59,6 @@ src/
 ├── DragDropUpload.js       # Drag-and-drop file uploader
 ├── Template.js             # Template selector UI
 ├── TemplateLooker.js       # Exports all template page components
-│
-├── templates/              # (Optional) Organized subfolder for each page
-│   ├── BetaTestingPage.jsx
-│   ├── InternalDemoPage.jsx
-│   └── ...
 └── ...
 ```
 
